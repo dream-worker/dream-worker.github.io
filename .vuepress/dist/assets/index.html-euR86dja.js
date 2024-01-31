@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-08f4d5c9","path":"/categories/dangqianbanben-version-1.0.0/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};
